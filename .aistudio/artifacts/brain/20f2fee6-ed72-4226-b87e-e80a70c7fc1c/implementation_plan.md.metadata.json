@@ -1,0 +1,6 @@
+{
+  "summary": "Plano de implementação para consolidação inteligente por código de fornecedor com múltiplas lojas e nomes distintos (ex: código 001760), correspondência multi-nome contra o Balancete, exibição dos nomes/saldos por loja e indicação da loja que gerou o match na tela e no Excel.",
+  "updatedAt": "2026-11-05T20:18:09.446551015Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

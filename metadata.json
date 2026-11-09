@@ -1,0 +1,6 @@
+{
+  "name": "Conciliação de Fornecedores",
+  "description": "Sistema de conciliação financeira e contábil entre o relatório de Títulos a Pagar do TOTVS Protheus e o Balancete de Verificação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
